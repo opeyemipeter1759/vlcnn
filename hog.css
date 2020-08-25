@@ -1,0 +1,36 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Lobster&family=Lora:ital,wght@1,400;1,500&family=Roboto:wght@100;300&display=swap');
+</style>
+
+/*
+font-family: 'Bangers', cursive;
+ font-family: 'Lobster', cursive;
+font-family: 'Lora', serif;
+font-family: 'Roboto', sans-serif;*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Robooto", sans-serif;
+  background-color: rgb(243, 240, 240);
+  margin: 0;
+  color: black;
+  line-height: 2;
+
+}
+
+.include {
+  height: auto;
+  width: 500px;
+}
+h3{
+  font-family: 'Bangers', cursive;
+  font-weight: ;
+}
+
+.hog1{
+  background-color: gold;
+}
